@@ -1,0 +1,6 @@
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Form1.resources
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Projeto_while.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Projeto_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Projeto_while.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Projeto_while.AssemblyInfo.cs
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\Projeto_while.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicao_if.Form1.resources
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicaoif.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicaoif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicaoif.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicaoif.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Condicao_if\Condicao_if\obj\Debug\net5.0-windows\Condicaoif.csproj.CoreCompileInputs.cache

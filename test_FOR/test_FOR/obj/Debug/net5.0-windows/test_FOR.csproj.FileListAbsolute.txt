@@ -1,0 +1,17 @@
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.exe
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.deps.json
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.runtimeconfig.json
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.dll
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\ref\test_FOR.dll
+C:\Users\marcu\source\repos\test_FOR\test_FOR\bin\Debug\net5.0-windows\test_FOR.pdb
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.Form1.resources
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.AssemblyInfo.cs
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.dll
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\ref\test_FOR.dll
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.pdb
+C:\Users\marcu\source\repos\test_FOR\test_FOR\obj\Debug\net5.0-windows\test_FOR.genruntimeconfig.cache

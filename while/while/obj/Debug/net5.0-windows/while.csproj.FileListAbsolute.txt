@@ -1,0 +1,17 @@
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\while.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\while.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\while.AssemblyInfo.cs
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\while.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.exe
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.deps.json
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.runtimeconfig.json
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.dll
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\ref\While.dll
+C:\Users\marcu\source\repos\while\while\bin\Debug\net5.0-windows\While.pdb
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\While.Form1.resources
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\While.dll
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\ref\While.dll
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\While.pdb
+C:\Users\marcu\source\repos\while\while\obj\Debug\net5.0-windows\While.genruntimeconfig.cache
